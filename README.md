@@ -71,4 +71,3 @@ Me chamo João Victor Neves, tenho 18 anos e sou natural de São Paulo. Tenho cu
 
 </p>
 
-![Snake animation](https://github.com/J0hnNeves)
