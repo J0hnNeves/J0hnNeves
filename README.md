@@ -1,7 +1,7 @@
 ## Oi eu sou a João Victor Neves!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0hnNeves)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0hnNeves_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0hnNeves=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
