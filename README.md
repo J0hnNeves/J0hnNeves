@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas`**
 
-Me chamo João Victor Neves, tenho 18 anos e sou natural de São Paulo. Tenho curso técnico em Desenvolvimento de Sistemas, feito na ETEC de Taboão da Serra. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Me chamo João Victor Neves, tenho 18 anos e sou natural de São Paulo. Sou formado no curso técnico de Desenvolvimento de Sistemas, feito na ETEC de Taboão da Serra. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USJT.
 
 <br>
 <br>
